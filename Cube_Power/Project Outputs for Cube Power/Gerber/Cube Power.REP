@@ -35,6 +35,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : Cube Power.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : Cube Power.GTP
 
@@ -55,6 +65,22 @@ Used DCodes :
     D20
     D21
     D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Cube Power.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -80,35 +106,6 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Cube Power.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D34
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Cube Power.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -148,22 +145,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Cube Power.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D33
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Cube Power.GTO
 
@@ -175,5 +156,24 @@ Used DCodes :
     D11
     D12
     D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Cube Power.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D34
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 

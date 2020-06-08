@@ -40,5 +40,6 @@ D70   ROUNDED            23.622      23.622       0.000 FLASH       0.000
 D71   ROUNDED            17.716      17.716       0.000 FLASH       0.000
 D72   ROUNDED            21.654      21.654       0.000 FLASH       0.000
 D75   ROUNDED            39.370      39.370       0.000 FLASH       0.000
-D78   ROUNDED            43.307      43.307       0.000 FLASH       0.000
-D79   ROUNDED            31.496      31.496       0.000  LINE       0.000
+D76   RECTANGULAR       122.047      52.165       0.000 FLASH       0.000
+D79   ROUNDED            43.307      43.307       0.000 FLASH       0.000
+D80   ROUNDED            31.496      31.496       0.000  LINE       0.000

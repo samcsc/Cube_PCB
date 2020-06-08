@@ -220,6 +220,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Cube Brain\NC Drill\Cube Brain.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Cube Brain\Design Rule Check - Cube Brain.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project
 Value=Cube Brain

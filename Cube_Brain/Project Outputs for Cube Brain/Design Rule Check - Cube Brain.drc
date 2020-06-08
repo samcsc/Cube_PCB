@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Sam\dev\Cube_PCB\Cube_Brain\Source Documents\Cube Brain.PcbDoc
+Date     : 8/06/2020
+Time     : 10:31:47 PM
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=50mm) (Preferred=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.3mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.12mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Via (29.625mm,18.1mm) from Top Layer to Bottom Layer And Via (29.625mm,18.7mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Via (29.625mm,23.625mm) from Top Layer to Bottom Layer And Via (29.625mm,24.225mm) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.35mm) Between Area Fill (7.5mm,31.3mm) (16.5mm,37.4mm) on Bottom Layer And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.35mm) Between Area Fill (7.5mm,31.3mm) (16.5mm,37.4mm) on Layer 1 And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.35mm) Between Area Fill (7.5mm,31.3mm) (16.5mm,37.4mm) on Layer 2 And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.35mm) Between Area Fill (7.5mm,31.3mm) (16.5mm,37.4mm) on Top Layer And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0.329mm < 0.35mm) Between Board Edge And Text "EXTB6" (35.9mm,7.9mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.323mm < 0.35mm) Between Board Edge And Track (0.398mm,25.946mm)(1.246mm,25.098mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.323mm < 0.35mm) Between Board Edge And Track (0.398mm,25.946mm)(1.954mm,27.502mm) on Top Overlay 
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=10mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:03
