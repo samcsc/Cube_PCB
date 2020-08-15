@@ -44,10 +44,10 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -64,7 +64,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -81,7 +81,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -98,7 +98,7 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -115,7 +115,7 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -139,13 +139,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYSFXEDC
 
-[Parameter1]
-Name=VersionRevision
-Value=V0.3
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Cube_Brain\Design Rule Check - Cube_Brain_PCB.html
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=Project
 Value=Cube Brain
+
+[Parameter2]
+Name=VersionRevision
+Value=V0.3
 
 [Configuration1]
 Name=Sources
