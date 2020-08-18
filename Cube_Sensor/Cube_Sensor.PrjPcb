@@ -72,6 +72,57 @@ GenerateClassCluster=0
 DocumentUniqueId=WVTOLPLQ
 
 [Document3]
+DocumentPath=Output Job Settings\Fabrication for sensor A.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Output Job Settings\Fabrication for sensor B.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=Output Job Settings\Fabrication for sensor C.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
 DocumentPath=B PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOAPAOTF
 
-[Document4]
+[Document7]
 DocumentPath=C PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,6 +155,510 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLYNGPJL
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\A PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\NC Drill\A PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\A PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\A PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\NC Drill\A PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Free Documents\NC Drill\A PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\A PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\Gerber\A PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Free Documents\Gerber\A PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Cube_Sensor\A PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Cube_Sensor\fd\A PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\A PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor A\NC Drill\A PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Free Documents\NC Drill\A PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\NC Drill\B PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\NC Drill\B PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\Gerber\B PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor B\NC Drill\B PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\NC Drill\C PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\NC Drill\C PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\Gerber\C PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for Cube_Sensor\Sensor C\NC Drill\C PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\Sensor A.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\Sensor A.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.REP
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for Cube_Sensor\Gerber\Sensor A.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for Cube_Sensor\NC Drill\Sensor A.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
