@@ -139,8 +139,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYSFXEDC
 
+[Document7]
+DocumentPath=Output Job Setting\Fabrication.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Cube_Brain\Design Rule Check - Cube_Brain_PCB.html
+DocumentPath=Project Outputs for Cube_Brain\NC Drill\Cube_Brain_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Cube_Brain\NC Drill\Cube_Brain_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Cube_Brain\Gerber\Cube_Brain_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Cube_Brain\NC Drill\Cube_Brain_PCB.TXT
 DItemRevisionGUID=
 
 [Parameter1]
